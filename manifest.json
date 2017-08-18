@@ -3,8 +3,8 @@
     "minimum_chrome_version": "38",
     "version": "2.1.0",
     "author": "Cleanflight Project",
-    "name": "Cleanflight - Configurator",
-    "short_name": "Cleanflight",
+    "name": "OLD Configurator 1.2.4",
+    "short_name": "OLDCleanflight",
     "description": "Crossplatform configuration tool for Cleanflight flight control system",
 
     "offline_enabled": true,
